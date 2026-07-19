@@ -1,0 +1,8 @@
+{
+  "name": "QA Test Automation Script Generator",
+  "description": "Generate complete, runnable Selenium or Playwright test scripts and Page Object Model (POM) test suites with robust locator strategies, wait mechanisms, and setup manifests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
